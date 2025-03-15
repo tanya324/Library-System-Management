@@ -1,0 +1,36 @@
+isbn,book_title,rental_price,status,author
+978-0-553-29698-2,The Catcher in the Rye,7,yes,J.D. Salinger
+978-0-330-25864-8,Animal Farm,5.5,yes,George Orwell
+978-0-14-118776-1,One Hundred Years of Solitude,6.5,yes,Gabriel Garcia Marquez
+978-0-525-47535-5,The Great Gatsby,8,yes,F. Scott Fitzgerald
+978-0-141-44171-6,Jane Eyre,4,yes,Charlotte Bronte
+978-0-307-37840-1,The Alchemist,2.5,yes,Paulo Coelho
+978-0-679-76489-8,Harry Potter and the Sorcerers Stone,7,yes,J.K. Rowling
+978-0-7432-4722-4,The Da Vinci Code,8,yes,Dan Brown
+978-0-09-957807-9,A Game of Thrones,7.5,yes,George R.R. Martin
+978-0-393-05081-8,A Peoples History of the United States,9,yes,Howard Zinn
+978-0-19-280551-1,The Guns of August,7,yes,Barbara W. Tuchman
+978-0-307-58837-1,Sapiens: A Brief History of Humankind,8,no,Yuval Noah Harari
+978-0-375-41398-8,The Diary of a Young Girl,6.5,no,Anne Frank
+978-0-14-044930-3,The Histories,5.5,yes,Herodotus
+978-0-393-91257-8,"Guns, Germs, and Steel: The Fates of Human Societies",7,yes,Jared Diamond
+978-0-7432-7357-1,1491: New Revelations of the Americas Before Columbus,6.5,no,Charles C. Mann
+978-0-679-64115-3,1984,6.5,yes,George Orwell
+978-0-14-143951-8,Pride and Prejudice,5,yes,Jane Austen
+978-0-452-28240-7,Brave New World,6.5,yes,Aldous Huxley
+978-0-670-81302-4,The Road,7,yes,Cormac McCarthy
+978-0-385-33312-0,The Shining,6,yes,Stephen King
+978-0-451-52993-5,Fahrenheit 451,5.5,yes,Ray Bradbury
+978-0-345-39180-3,Dune,8.5,yes,Frank Herbert
+978-0-375-50167-0,The Road,7,yes,Cormac McCarthy
+978-0-06-025492-6,Where the Wild Things Are,3.5,yes,Maurice Sendak
+978-0-06-112241-5,The Kite Runner,5.5,yes,Khaled Hosseini
+978-0-06-440055-8,Charlotte's Web,4,yes,E.B. White
+978-0-679-77644-3,Beloved,6.5,yes,Toni Morrison
+978-0-14-027526-3,A Tale of Two Cities,4.5,yes,Charles Dickens
+978-0-7434-7679-3,The Stand,7,yes,Stephen King
+978-0-451-52994-2,Moby Dick,6.5,yes,Herman Melville
+978-0-06-112008-4,To Kill a Mockingbird,5,yes,Harper Lee
+978-0-553-57340-1,1984,6.5,yes,George Orwell
+978-0-7432-4722-5,Angels & Demons,7.5,yes,Dan Brown
+978-0-7432-7356-4,The Hobbit,7,yes,J.R.R. Tolkien
